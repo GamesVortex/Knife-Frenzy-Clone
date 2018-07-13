@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnifeFrenzy", "Assembly-CSharp.csproj", "{4FBE160A-106F-CB31-2D90-9829F9D94FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnifeFrenzy", "Assembly-CSharp-Editor.csproj", "{FE9F86A9-7B21-CE81-CA1D-D4455026C155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FBE160A-106F-CB31-2D90-9829F9D94FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FBE160A-106F-CB31-2D90-9829F9D94FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FBE160A-106F-CB31-2D90-9829F9D94FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FBE160A-106F-CB31-2D90-9829F9D94FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9F86A9-7B21-CE81-CA1D-D4455026C155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9F86A9-7B21-CE81-CA1D-D4455026C155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9F86A9-7B21-CE81-CA1D-D4455026C155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9F86A9-7B21-CE81-CA1D-D4455026C155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
